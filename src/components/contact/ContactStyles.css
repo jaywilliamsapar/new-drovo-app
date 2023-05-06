@@ -45,7 +45,7 @@
 .contact form input, textarea {
     margin: .5rem;
     padding: .7rem 1.5rem;
-    background: rgba(255, 255, 255, .3);
+    background: rgba(4, 177, 230, 0.5);
     border: none;
     border-radius: 25px;
     color: #f6f6f6;
@@ -55,7 +55,7 @@
 }
 
 .contact form input:hover, textarea:hover {
-    box-shadow: 0 0 4px 0;
+    box-shadow: 0 0 6px 0;
 }
 
 .contact form input::placeholder, textarea::placeholder {
