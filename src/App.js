@@ -9,12 +9,14 @@ import Speed from './components/speed/Speed';
 function App() {
   return (
     <>
+    
       <Navbar />
       <Power />
       <Speed />
       <Handling />
       <Options />
       <Contact />
+
     </>
   );
 }
