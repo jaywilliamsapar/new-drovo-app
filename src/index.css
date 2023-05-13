@@ -45,19 +45,19 @@ h3 {
   text-transform: uppercase;
   border-radius: 25px;
   border: none;
-  background: rgba(192, 170, 170, 0.1);
+  background: rgba(207, 42, 42, 0.6);
   width: 90%;
-  color: #f6f6f6;
+  color: #080808;
   cursor: pointer;
 }
 
 .btn-dark {
-  background: rgba(0, 0, 0, .5);
+  background: rgba(8, 8, 8, 0.5);
 }
 
 .btn:hover {
-  background: rgba(255, 255, 255, .4);
+  background: rgba(21, 218, 126, 0.6);
 }
 .btn-dark:hover {
-  background: rgba(0, 0, 0, .8);
+  background: rgba(235, 213, 11, 0.7);
 }
