@@ -79,8 +79,8 @@
     }
 
     .nav-menu li:hover {
-        border-bottom: 1px solid rgb(21, 162, 49);
-        width: 175px;
+        border-bottom: 2px solid rgb(21, 125, 42);
+        width: 150px;
     }
 
     .nav-menu button {
